@@ -1,4 +1,4 @@
-name: Generate Snake anim
+name: Generate Contribution Grid Snake anim
 
 on:
   schedule:
