@@ -2,7 +2,7 @@ name: Generate Contribution Grid Snake anim
 
 on:
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 0 * * 6"
 
   workflow_dispatch:
 
