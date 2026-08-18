@@ -1,15 +1,15 @@
 # 🧑‍💻 Héctor de Isidro
 - 🌐 [Portfolio](https://hector6872.github.io)
 - 𝕏 [@hector6872](https://x.com/hector6872)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hector-de-isidro)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hector-de-isidro-6817527b)
 
 ### 📱 [Android Apps](https://play.google.com/store/apps/dev?id=6594381561673827125)
-- [ShadowSpeak](https://play.google.com/store/apps/dev?id=6594381561673827125) — Practice speaking with shadowing technique. Listen, repeat, improve pronunciation
-- [168 Intermittent Fasting Timer](https://play.google.com/store/apps/dev?id=6594381561673827125) — Perfect for tracking intermittent fasting times with a simple, versatile timer
-- [Traction Habit Tracker: LOOP!](https://play.google.com/store/apps/dev?id=6594381561673827125) — The ultimate habit tracker for building lasting routines and reaching your goals
-- [Lina Launcher for Seniors](https://play.google.com/store/apps/dev?id=6594381561673827125) — The simple smartphone solution for seniors and minimalists
-- [CopyCapture Quick Note](https://play.google.com/store/apps/dev?id=6594381561673827125) — Fast and minimalist note-taking tool
-- [Trader Trainer: Learn Trading](https://play.google.com/store/apps/dev?id=6594381561673827125) — Practice and learn trading strategies without financial risk
+- [ShadowSpeak](https://play.google.com/store/apps/details?id=com.hector6872.shadowing) — Practice speaking with shadowing technique. Listen, repeat, improve pronunciation
+- [168 Intermittent Fasting Timer](https://play.google.com/store/apps/details?id=com.hector6872.if168) — Perfect for tracking intermittent fasting times with a simple, versatile timer
+- [Traction Habit Tracker: LOOP!](https://play.google.com/store/apps/details?id=com.hector6872.habits) — The ultimate habit tracker for building lasting routines and reaching your goals
+- [Lina Launcher for Seniors](https://play.google.com/store/apps/details?id=com.hector6872.lina) — The simple smartphone solution for seniors and minimalists
+- [CopyCapture Quick Note](https://play.google.com/store/apps/details?id=com.hector6872.capture) — Fast and minimalist note-taking tool
+- [Trader Trainer: Learn Trading](https://play.google.com/store/apps/details?id=com.hector6872.tradetrainer) — Practice and learn trading strategies without financial risk
 
 ### 🔮 Vibe Coded Projects
 - [awesome-esp32](https://github.com/hector6872/awesome-esp32) - A curated list of awesome ESP32 projects and resources
@@ -19,7 +19,7 @@
 - Articles on [Medium](https://medium.com/@hector6872) and [dev.to](https://dev.to/hector6872)
 
 ### 📸 Beyond Code
-- [Photography](https://www.flickr.com/photos/hector6872)
+- [Photography](https://www.flickr.com/photos/156334879@N04/)
 
 ---
 <picture>
