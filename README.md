@@ -23,6 +23,12 @@
 
 ---
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hector6872/hector6872/stats/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hector6872/hector6872/stats/github-stats.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/hector6872/hector6872/stats/github-stats.svg">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hector6872/hector6872/snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hector6872/hector6872/snake/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hector6872/hector6872/snake/github-contribution-grid-snake.svg">
