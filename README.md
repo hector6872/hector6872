@@ -15,6 +15,7 @@
 - [awesome-esp32](https://github.com/hector6872/awesome-esp32) - A curated list of awesome ESP32 projects and resources
 - [md-nugget-notifier](https://github.com/hector6872/md-nugget-notifier) - Lightweight notifier to resurface random nuggets from your Markdown files
 - [startpage-web](https://github.com/hector6872/startpage-web) - Beautiful and minimalist productivity dashboard with Git, Jira, and Google Workspace integrations
+- [agent-usage-limits-macos](https://github.com/hector6872/agent-usage-limits-macos) - Native macOS menu bar app to monitor AI coding assistant usage limits in real-time
 
 ### [✍️ Writing](https://github.com/hector6872/Writings)
 - Articles on [Medium](https://medium.com/@hector6872) and [dev.to](https://dev.to/hector6872)
