@@ -17,6 +17,7 @@
 - [startpage-web](https://github.com/hector6872/startpage-web) - Beautiful and minimalist productivity dashboard with Git, Jira, and Google Workspace integrations
 - [agent-usage-limits-macos](https://github.com/hector6872/agent-usage-limits-macos) - Native macOS menu bar app to monitor AI coding assistant usage limits in real-time
 - [gemini-superpower-chrome-extension](https://github.com/hector6872/gemini-superpower-chrome-extension) - Chrome extension adding productivity superpowers, prompt management, and usage tracking to Google Gemini
+- [ib-journal](https://github.com/hector6872/ib-journal) - Lightweight, self-hosted Interactive Brokers (IBKR) trading journal and analytics suite
 
 ### ✍️ [Writing](https://github.com/hector6872/Writings)
 - Articles on [Medium](https://medium.com/@hector6872) and [dev.to](https://dev.to/hector6872)
